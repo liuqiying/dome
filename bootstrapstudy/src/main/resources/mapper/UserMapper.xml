@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC  
+    "-//mybatis.org//DTD Mapper 3.0//EN"  
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd"> 
+   
+<mapper namespace="com.fh.mapper.UserMapper">
+ <select id="getUserByName" resultType="user" parameterType="string">
+	 select * from t_shop_user where userName =#{userName}
+ </select>
+
+    <select id="queryList" resultType="user"  parameterType="com.fh.param.UserSearchParam">
+		select t.*,CONCAT(IFNULL(c1.cityname,""),IF(c2.cityname is null,"","--"),IFNULL(c2.cityname,""),IF(c3.cityname is null,"","--"),IFNULL(c3.cityname,""),IF(c4.cityname is null,"","--"),IFNULL(c4.cityname,"")) "areaName" from t_shop_user t
+left join city c1 on t.area1=c1.id
+left join city c2 on t.area2=c2.id
+left join city c3 on t.area3=c3.id
+left join city c4 on t.area4=c4.id
+		limit #{start},#{length}
+	</select>
+    <insert id="addUser" parameterType="user" >
+        insert into t_shop_user(userName,passWord,salt) values (#{userName},#{passWord},#{salt})
+    </insert>
+
+    <select id="queryCount" resultType="long"  parameterType="com.fh.param.UserSearchParam">
+		select count(*) FROM  t_shop_user
+	</select>
+
+    <!--地区ztree-->
+    <select id="areaAddByPid" parameterType="Integer" resultType="com.fh.model.Area">
+        select * from city where pid=#{id}
+    </select>
+    <!--新增用户-->
+    <insert id="addUserBy" parameterType="user" useGeneratedKeys="true" keyColumn="id" keyProperty="id">
+        <selectKey resultType="int" keyProperty="id" order="AFTER">
+            SELECT LAST_INSERT_ID()
+        </selectKey>
+        insert into t_shop_user(userName,passWord,salt,sex,salary,age,joinTime,phone,email,area1,area2,area3,area4)
+        values (#{userName},#{passWord},#{salt},#{sex},#{salary},#{age},#{joinTime},#{phone},#{email},#{area1},#{area2},#{area3},#{area4})
+    </insert>
+
+</mapper>

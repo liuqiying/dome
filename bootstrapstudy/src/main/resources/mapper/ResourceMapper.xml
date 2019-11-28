@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC
+        "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.fh.mapper.ResourceMapper">
+  <!--展示ztree-->
+  <select id="queryList" resultType="com.fh.model.Resource">
+    select * from t_shop_resource
+  </select>
+  <insert id="addResource" parameterType="com.fh.model.Resource" keyProperty="id" useGeneratedKeys="true">
+		insert into t_shop_resource(resourceName,url,pid,resourceType) values(#{resourceName},#{url},#{pid},#{resourceType})
+  </insert>
+      <select id="getUserResource" resultType="resource" parameterType="int">
+    select tr.* from t_shop_resource tr
+    LEFT join t_shop_resource_role rr on tr.id=rr.resourceId
+    left join t_shop_user_role ts on rr.roleId=ts.roleId
+    where ts.userId=#{liu}
+      </select>
+ <!-- &lt;!&ndash;查询总条数&ndash;&gt;
+  <select id="queryFiles" resultType="com.fh.entity.Filess">
+    select  id,pid,ztreeName from t_files where ftype=1
+  </select>
+
+  <select id="queryFilesById" resultType="com.fh.entity.Filess">
+    select  * from t_files where pid=#{id}
+  </select>
+  <select id="queryFilesByClicks" resultType="com.fh.entity.Filess">
+    select  * from t_files
+  </select>
+  &lt;!&ndash;文件上传&ndash;&gt;
+  <insert id="uploadFiles" parameterType="com.fh.entity.Filess">
+insert into t_files(id,pid,ztreeName,keyword,fileImg)values(#{id},#{pid},#{ztreeName},#{keyword},#{fileImg});
+
+  </insert>
+  &lt;!&ndash;创建文件夹&ndash;&gt;
+  <insert id="queryFilesSave" parameterType="com.fh.entity.Filess">
+insert into t_files(id,pid,ztreeName,keyword)values(#{id},#{pid},#{ztreeName},#{keyword});
+  </insert>
+  &lt;!&ndash;根据当前id查询当前文件&ndash;&gt;
+  <select id="queryFilessById" resultType="com.fh.entity.Filess" parameterType="java.lang.String">
+select  * from t_files where id=#{id}
+  </select>
+  &lt;!&ndash;查询所有数据&ndash;&gt;
+  <select id="queryByFiles" parameterType="com.fh.entity.Filess">
+select  * from t_files
+  </select>
+&lt;!&ndash;删除文件夹&ndash;&gt;
+  <delete id="deleteFile" parameterType="java.lang.String">
+delete from t_files where id in( #{str} )
+  </delete>
+  &lt;!&ndash;删除文件&ndash;&gt;
+  <delete id="deleteFilessById" parameterType="int">
+    delete from t_files where id=#{id}
+  </delete>-->
+<!---->
+  <!--<select id="queryCount" resultType="com.fh." parameterType="java.util.Map">
+  select count(*) from c_book where 1=1
+    </select>
+  <select id="queryBookList" resultType="java.util.Map" parameterType="java.util.Map">
+  select * from c_book where 1=1
+ limit #{start},#{length}
+    </select>
+      <insert id="saveBook" parameterType="com.fh.demo.entity.Book">
+            insert  into c_book(bookId,bookName,bookCreate,bookImg) values(#{bookId},#{bookName},#{bookCreate},#{bookImg})
+        </insert>
+    <delete id="bookDelete" parameterType="com.fh.demo.entity.Book">
+      delete from c_book where bookId=#{bookId}
+      </delete>
+    <select id="toUpdateBook" parameterType="com.fh.demo.entity.Book">
+      select * from c_book where bookId=#{bookId}
+    </select>-->
+</mapper>
