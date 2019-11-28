@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bootstrapstudy/shop-admin.iml" filepath="$PROJECT_DIR$/bootstrapstudy/shop-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-html/shop-html.iml" filepath="$PROJECT_DIR$/../shop-html/shop-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-server/shop-server.iml" filepath="$PROJECT_DIR$/../shop-server/shop-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop_web/shop-web.iml" filepath="$PROJECT_DIR$/../shop_web/shop-web.iml" />
+    </modules>
+  </component>
+</project>

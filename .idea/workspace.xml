@@ -1,0 +1,2039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="shop-admin:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e101e35-21ce-4c59-9739-7f20ba0c4770" name="Default Changelist" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/../shop-html/shop-html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/aaa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/cart-student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/getOrderInfo-student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/index-student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/dataTables.bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/dataTables.bootstrap4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/dataTables.bootstrap4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/dataTables.foundation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/dataTables.foundation.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/dataTables.jqueryui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/dataTables.jqueryui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/dataTables.semanticui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/dataTables.semanticui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/jquery.dataTables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/css/jquery.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/images/sort_asc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/images/sort_desc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/dataTables.bootstrap4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/dataTables.foundation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/dataTables.foundation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/dataTables.jqueryui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/dataTables.jqueryui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/dataTables.semanticui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/dataTables.semanticui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/DataTables-1.10.18/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/datatables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/datatables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/datatables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/DataTables/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/WdatePicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/lang/zh-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/skin/WdatePicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/skin/YcloudRed/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/skin/YcloudRed/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/skin/YcloudRed/qs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/skin/datePicker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/skin/default/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/skin/default/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/skin/whyGreen/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/skin/whyGreen/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/My97DatePicker/skin/whyGreen/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootbox/bootbox.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootbox/bootbox.locales.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootbox/bootbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-datetimepicker/css/bootstrap-datetimepicker-standalone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-datetimepicker/css/bootstrap-datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-datetimepicker/js/moment-with-locales.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/css/bootstrapValidator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/css/bootstrapValidator.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/bootstrapValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/bootstrapValidator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/ar_MA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/be_FR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/be_NL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/bg_BG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/cs_CZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/da_DK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/de_DE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/en_US.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/es_CL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/es_ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/fa_IR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/fr_FR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/gr_EL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/he_IL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/hu_HU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/id_ID.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/it_IT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/ja_JP.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/nl_NL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/no_NO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/pl_PL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/pt_BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/pt_PT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/ro_RO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/ru_RU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/sq_AL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/sr_RS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/sv_SE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/th_TH.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/tr_TR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/ua_UA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/vi_VN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/zh_CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap-validator/js/language/zh_TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/bootstrap3/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/common/nav3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/echarts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/css/fileinput-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/css/fileinput-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/css/fileinput.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/css/fileinput.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/img/loading-sm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/fileinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/fileinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/LANG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/cr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/kr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/kz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/locales/zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/plugins/piexif.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/plugins/piexif.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/plugins/purify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/plugins/purify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/plugins/sortable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/js/plugins/sortable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer-fa/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer-fa/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer-fa/theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer-fa/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer-fas/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer-fas/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer-fas/theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer-fas/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer/theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/explorer/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/fa/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/fa/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/fas/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/fas/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/gly/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/fileinput5/themes/gly/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/img/666.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/jquery.1.9.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/jquery.cookie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/myjs/checkAllOrReverse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/myjs/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/myjs/movie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/myjs/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/qrcode.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-JD-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-addressList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-cooperation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-getOrderInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-login-manage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-myOrder.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-pay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-payfail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-paysuccess.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-sampling.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-seckill-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-seckill-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-seckillOrder.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-shoplogin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-success-cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-weixinpay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/pages-zoom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/webbase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/widget-cartPanelView.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/css/widget-jquery.autocomplete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-moon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-moon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-moon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-pc.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-pc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-pc.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-pc.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-tb.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-tb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-tb.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-tb.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-touch.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-touch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-touch.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/fonts/icon-touch.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/57b51ea9Nb862ca5e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/buy001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/buy002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/buy01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/cooperation_banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/down-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/dp01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/dp02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/dp03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/dp04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/empty_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/erweima.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/gocart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/gocart01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/gotop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/icon-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/intro01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/intro02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/intro03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/itemlike01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/itemlike02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/itemlike03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/itemlike04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/itemlike05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/itemlike06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/l-m01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/list.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/login-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/manage-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/mobile01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/mobile02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/mobile03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/mobile04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/mobile05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/mobile06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/part01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/part02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/part03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/pay5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/phone14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/photo_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/s3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/sampling_head.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/seckillbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/shi_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/shop-intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/shop-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/shop-part.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/t.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/title_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/_/y24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/ad1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/ali.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/itemlike/itemlike01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/itemlike/itemlike02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/itemlike/itemlike03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/itemlike/itemlike04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/itemlike/itemlike05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/itemlike/itemlike06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/pay5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/pay/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/dp01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/dp02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/dp03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/dp04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/intro01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/intro02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/intro03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/l-m01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/mobile01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/mobile02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/mobile03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/mobile04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/mobile05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/mobile06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/part01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/part02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/part03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/phone/phone14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/success-cart/buy001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/success-cart/buy002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/success-cart/buy01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/success-cart/gocart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/success-cart/gocart01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/zoom/b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/zoom/b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/zoom/b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/zoom/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/zoom/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/assets/img/zoom/s3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/banner4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/barrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/brand_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/cartPanelViewIcons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/choosed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/duihuan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/erweima.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/floor-1-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/floor-1-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/floor-1-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/floor-1-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/floor-1-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/floor-1-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/floor-1-b01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/floor-1-b02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/floor-1-b03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/goods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/icon-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/interest01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/interest02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/interest03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/interest04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/interest05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/interest06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/like1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/like2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/like3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/like4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/like_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/like_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/like_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/like_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/like_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/like_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/linker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/loginbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/mod-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/phone-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/quan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/sina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/today01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/today02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/today03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/today04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/img/zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/czFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/model/cartModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/addressList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/city-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/getOrderInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/jquery.slideunlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/login-manage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/person-collect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/person-footmark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/seckill-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/shoplogin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/pages/sm-city-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/plugins/birthday/birthday.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/plugins/citypicker/distpicker.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/plugins/citypicker/distpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/plugins/jquery-placeholder/jquery.placeholder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/plugins/jquery.easing/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/plugins/jquery.jqzoom/jquery.jqzoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/plugins/jquery.jqzoom/zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/plugins/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/plugins/sui/sui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/plugins/upload/uploadPreview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/widget/cartPanelView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/widget/jquery.autocomplete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/widget/nav-portal-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/js/widget/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/plugins/cssgrids/cssgrids-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/plugins/jquery-placeholder/jquery.placeholder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/plugins/jquery.easing/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/plugins/jquery.jqzoom/jquery.jqzoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/plugins/jquery.jqzoom/zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/plugins/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/plugins/normalize/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/plugins/sui/sui-append.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/plugins/sui/sui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/shop/plugins/sui/sui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/uploadify/jquery.uploadify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/uploadify/jquery.uploadify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/uploadify/uploadify-cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/uploadify/uploadify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/uploadify/uploadify.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/awesomeStyle/awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/awesomeStyle/awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/awesomeStyle/fa.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/awesomeStyle/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/metroStyle/img/line_conn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/metroStyle/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/metroStyle/img/metro.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/metroStyle/img/metro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/metroStyle/metroStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/diy/1_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/diy/1_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/diy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/diy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/diy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/diy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/diy/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/diy/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/diy/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/diy/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/zTreeStandard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/img/zTreeStandard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/css/zTreeStyle/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/js/jquery-1.4.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/js/jquery.ztree.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/js/jquery.ztree.core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/js/jquery.ztree.excheck.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/js/jquery.ztree.exedit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/js/ztree/js/jquery.ztree.exhide.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/pay-student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/pay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/role.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/script.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-html/web/zhuce.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bootstrapstudy/target/" />
+    <ignored path="$PROJECT_DIR$/shop-api/target/" />
+    <ignored path="$PROJECT_DIR$/../shop-api/target/" />
+    <ignored path="$PROJECT_DIR$/../shop-html/target/" />
+    <ignored path="$PROJECT_DIR$/../shop-server/target/" />
+    <ignored path="$PROJECT_DIR$/../shop_web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1636625667">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.122" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="html" value="2" />
+          <entry key="java" value="267" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="129" />
+          <entry key="properties" value="5" />
+          <entry key="ts" value="2" />
+          <entry key="xml" value="60" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="267" />
+          <entry key="JSP" value="129" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Properties" value="5" />
+          <entry key="TypeScript" value="2" />
+          <entry key="XML" value="60" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="25111" />
+          <entry key="jsp" value="4223" />
+          <entry key="properties" value="19" />
+          <entry key="xml" value="502" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="25111" />
+          <entry key="JSP" value="4223" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="19" />
+          <entry key="SQL" value="7" />
+          <entry key="XML" value="495" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-214735353">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="java" value="2" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="9" />
+          <entry key="xsd" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="properties" value="5" />
+          <entry key="xml" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Properties" value="5" />
+          <entry key="XML" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2119537466">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.142" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="61" />
+          <entry key="html" value="99" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="411" />
+          <entry key="js" value="15" />
+          <entry key="jsp" value="25" />
+          <entry key="properties" value="8" />
+          <entry key="xml" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="61" />
+          <entry key="HTML" value="99" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="411" />
+          <entry key="JSP" value="25" />
+          <entry key="JavaScript" value="15" />
+          <entry key="Properties" value="8" />
+          <entry key="XML" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="11" />
+          <entry key="html" value="5681" />
+          <entry key="java" value="9706" />
+          <entry key="js" value="959" />
+          <entry key="jsp" value="19" />
+          <entry key="properties" value="24" />
+          <entry key="txt" value="30" />
+          <entry key="xml" value="400" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="5681" />
+          <entry key="JAVA" value="9706" />
+          <entry key="JSP" value="19" />
+          <entry key="JavaScript" value="959" />
+          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="Properties" value="24" />
+          <entry key="SQL" value="6" />
+          <entry key="XML" value="394" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="shop-admin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrapstudy/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addRoleName</find>
+      <find>showUpdateDiv</find>
+      <find>update_roleName</find>
+      <find>showRole</find>
+      <find>getSession</find>
+      <find>FTPUtil</find>
+      <find>java-jwt</find>
+      <find>hget</find>
+      <find>hmget</find>
+      <find>addMember</find>
+      <find>queryList2</find>
+      <find>CART_KEY</find>
+      <find>应付金额</find>
+      <find>zongshu</find>
+      <find>sizeChecked</find>
+      <find>changeSite</find>
+      <find>收货人</find>
+      <find>siteTemp</find>
+      <find>boorTemp</find>
+      <find>dibu</find>
+      <find>dibu2</find>
+      <find>area_phone_</find>
+      <find>dizhi</find>
+      <find>siteDiv</find>
+      <find>jjwt</find>
+      <find>open</find>
+      <find>productDiv</find>
+      <find>productListDiv</find>
+      <find>reProductListDiv</find>
+      <find>reProductDiv</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\Users\shop_html3</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="E:/五月/wuyue/mvn/apache-maven-3.1.1/conf/settings.xml" />
+        <option value="$PROJECT_DIR$/bootstrapstudy/src/main/resources/mapper/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/model/Product.java" />
+        <option value="$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/service/pay/PayLogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/controller/PayLogController.java" />
+        <option value="$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/service/pay/PayLogService.java" />
+        <option value="$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/mapper/PayLogMapper.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/mapper/PayLogMapper.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/util/SystemConstant.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/PayLogController.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/pay/PayLogService.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/sdk/MyWxConfig.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/common/ResponseEnum.java" />
+        <option value="$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/model/PayLog.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/model/PayLog.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/sdk/WXPayXmlUtil.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/sdk/WXPay.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/sdk/WXPayRequest.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/sdk/WXPayUtil.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/wechatpay/controller/WeChatPay.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/resources/datasourcefh.properties" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/sdk/MyConfig.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/RoleController.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/CartInfoController.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/AreaController.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/resources/conf/ftp.properties" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/model/OrderDetail.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/order/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/model/CartInfo.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/model/Product.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/menber/MemService.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/menber/MemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/MemController.java" />
+        <option value="$PROJECT_DIR$/../shop-html/web/login.html" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/product/ProductService.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/product/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/mapper/ProductMapper.java" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/resources/mapper/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/../shop-html/web/index-student.html" />
+        <option value="$PROJECT_DIR$/../shop-html/web/js/common/nav3.js" />
+        <option value="$PROJECT_DIR$/../shop-html/web/cart-student.html" />
+        <option value="$PROJECT_DIR$/../shop-html/web/getOrderInfo-student.html" />
+        <option value="$PROJECT_DIR$/../shop-html/web/pay.html" />
+        <option value="$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/pay/PayLogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../shop_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-html/web/pay-student.html" />
+        <option value="$PROJECT_DIR$/bootstrapstudy/pom.xml" />
+        <option value="$PROJECT_DIR$/bootstrapstudy/src/main/webapp/WEB-INF/web.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/五月/wuyue/mvn/apache-maven-3.1.1" />
+        <option name="userSettingsFile" value="E:\五月\wuyue\mvn\apache-maven-3.1.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="product" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1890" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shop-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrapstudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrapstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrapstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrapstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrapstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574938300403" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.50229883" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project\shop-html\web" />
+      <recent name="E:\Users\shop-admin\bootstrapstudy\src\main\webapp\WEB-INF\view" />
+      <recent name="E:\Users\shop-admin\bootstrapstudy\src\main\webapp\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\shop-html\web\js\img" />
+      <recent name="E:\project\shop_web\src\main\java\com\fh" />
+      <recent name="E:\project\shop_web\src\main\java\com\fh\sdk" />
+      <recent name="E:\project\shop-html\web" />
+      <recent name="E:\project\shop_web\src\main\java\com\fh\service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fh.model" />
+      <recent name="com.fh.mapper" />
+      <recent name="com.fh.controller" />
+      <recent name="com.fh.Inteceptor" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fh.service.pay" />
+      <recent name="com.fh.service.order" />
+      <recent name="com.fh.service.site" />
+      <recent name="com.fh.service.cart" />
+      <recent name="com.fh.service.menber" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.shop_admin">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_shop-admin" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51677" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51676" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shop_admin" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.52" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="shop-admin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shop-admin_15" />
+        <option name="HTTP_PORT" value="8089" />
+        <option name="JNDI_PORT" value="1089" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51677" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shop-admin:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="shop_html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.52" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="shop-html:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shop-admin_19" />
+        <option name="HTTP_PORT" value="8082" />
+        <option name="JNDI_PORT" value="1093" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51677" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shop-html:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="shop_web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.52" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="shop-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shop-admin_18" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1095" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51677" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shop-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.shop_web" />
+      <item itemvalue="Tomcat Server.shop_admin" />
+      <item itemvalue="Tomcat Server.shop_html" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e101e35-21ce-4c59-9739-7f20ba0c4770" name="Default Changelist" comment="" />
+      <created>1573040985511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573040985511</updated>
+      <workItem from="1573040988346" duration="1158000" />
+      <workItem from="1573042290415" duration="2000" />
+      <workItem from="1573044517535" duration="9290000" />
+      <workItem from="1573083125095" duration="16221000" />
+      <workItem from="1573114519987" duration="45304000" />
+      <workItem from="1573342421768" duration="34819000" />
+      <workItem from="1573429528271" duration="29358000" />
+      <workItem from="1573481842850" duration="3062000" />
+      <workItem from="1573515184662" duration="14570000" />
+      <workItem from="1573549947014" duration="5955000" />
+      <workItem from="1573601627720" duration="28084000" />
+      <workItem from="1573730261336" duration="6594000" />
+      <workItem from="1573774519446" duration="4591000" />
+      <workItem from="1573947809242" duration="4984000" />
+      <workItem from="1573959728975" duration="184000" />
+      <workItem from="1573960497243" duration="5456000" />
+      <workItem from="1573966172643" duration="2800000" />
+      <workItem from="1573973562908" duration="1878000" />
+      <workItem from="1573975880511" duration="41479000" />
+      <workItem from="1574077612775" duration="904000" />
+      <workItem from="1574078677166" duration="36872000" />
+      <workItem from="1574168725156" duration="3445000" />
+      <workItem from="1574172828124" duration="2865000" />
+      <workItem from="1574207491151" duration="85230000" />
+      <workItem from="1574379288405" duration="7657000" />
+      <workItem from="1574494060267" duration="1512000" />
+      <workItem from="1574496061961" duration="4925000" />
+      <workItem from="1574502178953" duration="338000" />
+      <workItem from="1574553043408" duration="958000" />
+      <workItem from="1574575140631" duration="8647000" />
+      <workItem from="1574588756127" duration="193000" />
+      <workItem from="1574588982699" duration="21650000" />
+      <workItem from="1574638557208" duration="26890000" />
+      <workItem from="1574752315415" duration="280000" />
+      <workItem from="1574851156593" duration="15121000" />
+      <workItem from="1574903941849" duration="4682000" />
+      <workItem from="1574911993962" duration="8755000" />
+      <workItem from="1574936579258" duration="2194000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1574938281158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574938281158</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Son - 2019.11.13 at 15h 59m 42s.xml">
+      <configuration name="Son" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Son - 2019.11.13 at 16h 00m 15s.xml">
+      <configuration name="Son" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="father - 2019.11.13 at 16h 00m 23s.xml">
+      <configuration name="father" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Son_son2 - 2019.11.13 at 16h 00m 43s.xml">
+      <configuration name="Son.son2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Son - 2019.11.13 at 16h 02m 31s.xml">
+      <configuration name="Son" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Son_son2 - 2019.11.13 at 16h 02m 39s.xml">
+      <configuration name="Son.son2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="father_father - 2019.11.13 at 16h 04m 57s.xml">
+      <configuration name="father.father" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="father - 2019.11.13 at 16h 05m 05s.xml">
+      <configuration name="father" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Son_son2 - 2019.11.13 at 16h 05m 18s.xml">
+      <configuration name="Son.son2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Son_son2 - 2019.11.13 at 16h 06m 31s.xml">
+      <configuration name="Son.son2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="488928000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48876405" visible="true" weight="0.22958772" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.51123595" side_tool="true" weight="0.2829426" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" sideWeight="0.51123595" side_tool="true" weight="0.2829426" />
+      <window_info id="Structure" order="7" sideWeight="0.51123595" weight="0.2829426" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497979" weight="0.6891652" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49717057" weight="0.3268206" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.19005328" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502021" side_tool="true" weight="0.60923624" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.497979" weight="0.60035527" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.21988682" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" side_tool="true" weight="0.32983023" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48876405" visible="true" weight="0.21988682" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.51123595" side_tool="true" weight="0.2829426" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" sideWeight="0.51123595" side_tool="true" weight="0.2829426" />
+      <window_info id="Structure" order="7" sideWeight="0.51123595" weight="0.2829426" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497979" weight="0.6891652" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49717057" visible="true" weight="0.08170515" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.19005328" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502021" side_tool="true" weight="0.60923624" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.497979" weight="0.40497336" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.21988682" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" side_tool="true" weight="0.32983023" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/controller/ResourceController.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/UserController.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/wechatpay/controller/WeChatPay.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/sdk/WXPay.java</url>
+          <line>363</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="date.cdate" />
+        <watch expression="reqBody.value[2]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/AreaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-html/web/role.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/resources/conf/ftp.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/resources/spring/spring-mvc-controller.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/resources/spring/spring-common.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/resources/datasourcefh.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository4/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE.jar!/org/springframework/http/HttpHeaders.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5600">
+          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/nativeUtil/WXPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-html/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/service/Area/AreaServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/service/product/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-371">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/service/ROLE/RoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/service/ROLE/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-875">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/Inteceptor/LoginInteceptor2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/util/JwtUtil2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/mapper/MemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/controller/PayLogController.java" />
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/ResourceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/model/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/model/CartInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/model/OrderDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/order/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="79" column="65" selection-start-line="79" selection-start-column="65" selection-end-line="79" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/menber/MemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/menber/MemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/MemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-html/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-html/web/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/product/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository4/org/springframework/spring-aop/4.3.6.RELEASE/spring-aop-4.3.6.RELEASE-sources.jar!/org/springframework/aop/support/AopUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="332" selection-start-line="332" selection-end-line="332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/product/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/mapper/ProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-html/web/getOrderInfo-student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="378" lean-forward="true" selection-start-line="378" selection-end-line="378" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-html/web/cart-student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="224" column="14" lean-forward="true" selection-start-line="224" selection-start-column="14" selection-end-line="224" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapstudy/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-html/web/js/common/nav3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1112">
+          <caret line="17" column="84" selection-start-line="17" selection-start-column="84" selection-end-line="17" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-html/web/index-student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="132" column="58" selection-start-line="132" selection-start-column="58" selection-end-line="132" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-html/web/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/controller/PayLogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/java/com/fh/service/pay/PayLogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-html/web/pay-student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="405" column="7" selection-start-line="405" selection-start-column="7" selection-end-line="418" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapstudy/src/main/java/com/fh/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop_web/src/main/resources/mapper/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="50" column="190" selection-start-line="50" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapstudy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="386" lean-forward="true" selection-start-line="386" selection-end-line="386" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapstudy/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>shop-admin:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.50229883" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (shop-web)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.50229883" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.28390804" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>shop-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.50229883" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.50229883" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/bootstrapstudy" />
+    <option value="-U idea:idea" />
+    <option value="clean package" />
+  </component>
+</project>
